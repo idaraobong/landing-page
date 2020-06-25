@@ -1,0 +1,165 @@
+h1{
+
+}
+.btn{
+background-color: #f1c40f;
+border:0;
+max-width: 150px;
+    width: 100%;
+    height: 30px;
+    margin: 15px 0;
+    
+}
+#upperdivision input[type="email"]{
+	max-width: 275;
+	width: 100%;
+	padding: 5px;
+	
+
+}
+.container{
+	    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+
+}
+#features{
+	margin-top: 30px;
+}
+.grid{
+	display: flex;
+}
+#how-it-works{
+	    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+#pricing{
+	margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+footer{
+	margin-top: 30px;
+    background-color: #ddd;
+    padding: 20px;
+}
+span{
+	margin-top: 5px;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 0.9em;
+    color: #444;
+}
+nav-bar{
+display: inline;
+}
+
+iframe{
+	display: 
+}
+#upperdivision  > h2 {
+    margin-bottom: 20px;
+    text-align:center;}
+    
+
+.button{
+	
+	justify-content: center;
+	text-align: center;
+	margin-right: 20px;
+	max-width: 150px;
+    width: 100%;
+    height: 30px;
+    margin: 15px 0;
+    border: 0;
+    background-color: #f1c40f;
+    font-weight: 900;
+    
+
+
+}
+.logo > img {
+    width: 100%;
+    height: 100%;
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 20px;}
+
+    a {
+    color: #000;
+    text-decoration: none;}
+
+    footer > ul {
+   display: flex;
+    	justify-content: flex-end;
+    	list-style: none
+    	word-spacing: 5px;
+
+}
+
+    #header{
+    	
+    	background-color: #eee;
+    }
+    
+    body {
+    	background-color: #eee;
+    }
+    .fa-3x {
+    font-size: 3em;}
+
+    .icon {
+    
+    height: 125px;
+    width: 20vw;
+    color: #ff8c00;}
+
+     h2 {
+    display: block;
+    font-size: 1.5em;    
+    font-weight: bold;}
+    
+    #nav-bar > ul{
+    	display: flex;
+    	justify-content: flex-end;
+    	list-style: none;
+    }
+form{
+	display: block;
+	
+}
+
+ .flex-container{
+ 	display: flex;
+ 	flex-direction: row;
+ }
+ .product{
+ 	display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: calc(100% / 3);
+    margin: 10px;
+    border: 1px solid #000;
+    border-radius: 3px;
+}
+.product > .level{
+background-color: #ddd;
+    color: black;
+    padding: 15px 0;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+form{
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    display: block;
+}
